@@ -16,6 +16,10 @@ Pi-hole[®](https://pi-hole.net/trademark-rules-and-brand-guidelines/)'s Web int
 <a class="badge-align" href="https://www.codacy.com/app/Pi-hole/AdminLTE?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=pi-hole/AdminLTE&amp;utm_campaign=Badge_Grade"><img src="https://api.codacy.com/project/badge/Grade/10540ea45a3b4d5f992c05a2c9714609"/></a>
 <img src="https://pi-hole.github.io/graphics/Badges/browserstack-badge.png" height="80"><br>
 
+# What is this?
+
+This is a remake of Pi-hole's AdminLTE web interface. It's goal is to build a more solid and extensible web interface with the help of the famous <a href="https://symfony.com/">Symfony</a> framework.    
+
 # Installation
 
 The Web interface is enabled by default when you install Pi-hole.
